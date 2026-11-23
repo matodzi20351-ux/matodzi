@@ -54,8 +54,8 @@ These projects reflect my learning and ongoing development. Features and availab
 | **SheShield** | A safety PWA focused on gender-based violence support, including silent SOS, trusted contacts, anonymous reporting and legal guidance. | [Visit](https://shesheild-new.web.app/) |
 | **Genetic Bloom Farm** | A poultry e-commerce website and PWA built with Next.js and Supabase, with stock management and an admin panel. | [Visit](https://genetic-bloom-farm.netlify.app/) |
 | **KhulaFund / SMME Fund Finder** | A funding discovery and application project helping small businesses find opportunities and track applications. | [Visit](https://smmesfundfinder.netlify.app/) |
-| **WILConnect** | A work-integrated learning project using Node.js, SQL Server and C# WinForms, with role-based pages, PDF uploads and search. | [Visit](https://smmesfundfinder.netlify.app/) |
-| **MechBook EL** | A mechanic booking project with registration, login, bookings, notifications and email workflows. | — |
+| **WILConnect** | A work-integrated learning project using Node.js, SQL Server and C# WinForms, with role-based pages, PDF uploads and search. | — |
+| **MechBook EL** | A mechanic booking project with registration, login, bookings, notifications and email workflows. | [Visit](https://mechbookel3.onrender.com/index.html) |
 | **Kideo Lucky Creche** | A creche management web app for parent accounts, child registration, announcements and administration. | — |
 | **Clothing & Accessories Store** | An online storefront for clothing, accessories and LED lights, with local delivery and manual payment arrangements. | [Visit](https://amazing-banoffee-93fac5.netlify.app/) |
 | **RoomWatch** | A personal room-monitoring project exploring remote access and monitoring. | — |
